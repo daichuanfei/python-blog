@@ -3,7 +3,7 @@
 
 ## 第一部分：Python 基础
 
-### 1. [Python 简介与环境搭建](./blogs/C1%20Python简介与环境搭建%20/)
+### 1. [Python 简介与环境搭建](./blogs/C1%20Python简介与环境搭建/)
 - [Python 是什么](./blogs/C1%20Python简介与环境搭建/1.Python是什么.md)
 - [安装 Python 和配置开发环境（Windows/Mac）](./blogs/C1%20Python简介与环境搭建/2.安装Python和配置开发环境.md)
 
